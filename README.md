@@ -149,7 +149,6 @@ Approval Bottlenecks: Bar charts identifying departments exceeding the 7-day SLA
 3. Financial Integrity Audit
 Price Creep Scatter Plot: Identified invoices that significantly exceeded original PO amounts (Over-billing alerts).
 
-URL Action: Integrated a "Deep Link" feature where clicking a Supplier ID opens the corresponding digital contract folder.
 
 🚀 Key Results
 Identified Leakage: Highlighted departments with the highest spend on expired agreements.
