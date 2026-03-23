@@ -11,10 +11,12 @@ Database: MySQL (ETL, Table Joining, and Performance Aggregations)
 
 Visualization: Tableau Desktop (Interactive Leaderboards, Pareto Analysis, and Trend Tracking)
 
-🗄️ SQL Engineering & Data Modeling
+SQL Analysis
+
 I developed a robust Performance Summary table using Common Table Expressions (CTEs) to join three separate data silos. This allowed for seamless cross-functional analysis between Purchase Orders, Supplier Risk Profiles, and Invoice Payment cycles.
 
 SQL
+
 -- Building the Centralized Performance Summary Table
 ``` 
 CREATE TABLE `2_s2p`.performance_summary AS
