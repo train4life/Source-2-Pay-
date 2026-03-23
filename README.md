@@ -1,5 +1,6 @@
 Source-to-Pay (S2P) Procurement Analytics & Risk Suite
-📋 Project Overview
+
+Project Overview
 This project transforms fragmented Excel procurement data into a centralized SQL-driven analytical engine and a Three-Tier Tableau Dashboard. The goal was to provide the Chief Procurement Officer (CPO) with visibility into $XM in spend, identifying $Y in "Contract Leakage," and tracking Supplier Diversity and Risk KPIs.
 
 🛠️ Technical Stack
