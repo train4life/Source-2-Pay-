@@ -14,7 +14,8 @@ I developed a robust Performance Summary table using Common Table Expressions (C
 
 SQL
 -- Building the Centralized Performance Summary Table
-```CREATE TABLE `2_s2p`.performance_summary AS
+``` 
+CREATE TABLE `2_s2p`.performance_summary AS
 WITH purchase_supplier AS (
     SELECT p.po_id, p.supplier_id, p.department, p.po_date, p.amount, p.approval_days, p.`status`, 
            s.supplier_name, s.category, s.diversity_flag, s.risk_rating, s.country, 
